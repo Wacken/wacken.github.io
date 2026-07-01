@@ -1,0 +1,12 @@
+[V1.0 Update Log]
+- Version Release
+- Teleporter to Dance studio
+- ReplayCam
+  - resizeable and moveable screen with reset
+  - 3 different camera positions
+  - visualize or hide camera
+  - change the delay from 0-30 s
+  - lock and unlock for other people to use
+- Darkness slider
+- ProTV setup
+- Mirror (HQ/LQ)
